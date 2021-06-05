@@ -1,2 +1,1 @@
-# simple_casino
-College Project
+# Mini Casino
